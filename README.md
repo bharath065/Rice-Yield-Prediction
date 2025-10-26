@@ -38,6 +38,7 @@ This project focuses on predicting rice yield in Tamil Nadu, specifically in the
 # Rice-Yield-Prediction Project
 
 ## Project Structure
+```
 
 Rice-Yield-Prediction/
 ├─ SourceCode/
@@ -66,7 +67,7 @@ Rice-Yield-Prediction/
 ├─ Video/
 │  └─ Working_Demo.mp4
 └─ README.md
-
+```
 ## How to Run the Project
 
 ### Step 1: Install Required Packages
